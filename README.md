@@ -4,7 +4,7 @@ CS2-Addon-Creator - утилита для максимально простог�
 
 Просто читайте что от вас просит сама программа и всё. Ошибиться там негде. 
 
-В папку "csgo_addons" положите все необходимые файлы для сервера. Звуки, модели, частицы и тд.
+В папкте "csgo_addons" создайте папку с названием вашего аддона и сложите в неё все необходимые файлы.
 
 НЕ используйте кирилицу в названиях файлов и папок!
 
@@ -20,7 +20,7 @@ CS2-Addon-Creator - utility for the simplest and fastest creation of an addon fo
 
 Just read what the program itself asks of you and that's it. There is no room for error there.
 
-Put all the necessary files for the server in the "csgo_addons" folder. Sounds, models, particles, etc.
+In the "csgo_addons" folder, create a folder with the name of your addon and put all the necessary files in it.
 
 DO NOT use Cyrillic in the names of files and folders!
 
